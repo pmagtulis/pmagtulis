@@ -5,7 +5,7 @@ in data journalism at Columbia University in New York.
 - 💞️ I’m interested on anything about the economy, politics and business. Used to do boxing during free time (prior to pandemic),
 loves to travel, binges on Netflix and a trying-hard, trying-to-fit-in and wannabe coder (hey, hopefully I succeed!)
 
-- 📫 Learn more about me and my work through my social media accounts (links below my profile photo!)
+- 📫 Learn more about me and my work through my the following accounts on [Twitter](https://twitter.com/prinzmagtulis), [LinkedIn](https://www.linkedin.com/in/prinzmagtulis/) and [ResearchGate](https://www.researchgate.net/profile/Prinz-Magtulis).
 
 <!---
 prinz-magtulis/prinz-magtulis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
