@@ -1,4 +1,4 @@
-- 👀 I’m a financial and data journalist/policy researcher currently taking up my master of science degree
+- 👀 I’m a financial and data journalist as well as a policy researcher currently taking up my master of science degree
 in data journalism at Columbia University in New York.
 - 🌱 I’m currently learning programming, particularly Python and have this unexplainable fascination with pandas, while trying to love BeautifulSoup.
 - 💞️ I’m interested on anything about the economy, politics and business. Used to do boxing during free time (prior to pandemic),
