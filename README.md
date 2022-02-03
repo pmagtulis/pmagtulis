@@ -1,4 +1,4 @@
-<h2> ### Hi there 👋 </h2>
+<h2> Hi there 👋 </h2>
 <br>
 
 👀 I’m a financial and data journalist as well as a policy researcher currently pursuing my master of science degree in data journalism at Columbia University in New York.
