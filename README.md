@@ -5,4 +5,4 @@
 
 💞️ Fascinated by anything about the economy, politics and business-- essentially anything with data that can be analyzed, processed and make sense of. Currently learning JavaScript, Svelte text analysis. 
 
-📫 Learn more about me and my career through my social media accounts on [Twitter](https://twitter.com/prinzmagtulis) and [LinkedIn](https://www.linkedin.com/in/prinzmagtulis/), my journalism [here](https://www.philstar.com/authors/1097494/prinz-magtulis) and [here](https://www.ft.com/search?q=prinz+magtulis) and my research on [ResearchGate](https://www.researchgate.net/profile/Prinz-Magtulis).
+📫 Learn more about me and my career through my social media accounts on [Twitter](https://twitter.com/prinzmagtulis) and [LinkedIn](https://www.linkedin.com/in/prinzmagtulis/), and my research on [ResearchGate](https://www.researchgate.net/profile/Prinz-Magtulis).
